@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: bottom;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 700;
+  align-self: center;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 20px;
+  align-self: center;
+}
+.clickButton {
+  height: 35px;
+  width: 100px;
+  background-color: #007bff;
+  cursor: pointer;
+  outline: red;
+  align-self: center;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+}
+.span {
+  color: #c20a72;
+}
